@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋 Hi there, I’m Julian, A Software Developer based in Northern Virginia.
 
+---
+
+## 🚀 About Me
+- 🔭 Currently working as an **AI Coding Trainer**, evaluating code quality produced by AI models  
+- 🌱 Expanding my knowledge in **full-stack development**  
+- 👨‍💻 I love creating tools that make life easier — from simple stock trackers, to music playlist transferers, to AI-powered interview trainers  
+  
 <!--
 **memento-j/memento-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
