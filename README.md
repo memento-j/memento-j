@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Julian, A Software Developer based in Northern Virginia.
+## 👋 Hi there, I’m Julian. A Software Developer based in Northern Virginia.
 
 ---
 
