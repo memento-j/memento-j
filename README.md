@@ -1,9 +1,6 @@
-## Hi there, I’m Julian. A Software Developer based in Northern Virginia.
-
 <p align="center">
   <img width="500" height="500" alt="pxhgyk635swd1" src="https://github.com/user-attachments/assets/ba24f439-4a14-453e-a1e6-0cafe8d12fe8" />
 </p>
-
 
 <!--
 **memento-j/memento-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
