@@ -1,12 +1,4 @@
-## 👋 Hi there, I’m Julian. A Software Developer based in Northern Virginia.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working as an **AI Coding Trainer**, evaluating code quality produced by AI models  
-- 🌱 Expanding my knowledge in **full-stack development**  
-- 👨‍💻 I love creating tools that make life easier — from simple stock trackers to AI-powered interview trainers
-
+## Hi there, I’m Julian. A Software Developer based in Northern Virginia.
 
 <p align="center">
   <img width="500" height="500" alt="pxhgyk635swd1" src="https://github.com/user-attachments/assets/ba24f439-4a14-453e-a1e6-0cafe8d12fe8" />
